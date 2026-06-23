@@ -21,13 +21,6 @@ The project includes network design, VLAN segmentation, IPsec VPN planning, fire
 - User training and ongoing IT support documentation
 - Foundational IT policies, including AUP, ACP, IRP, DRP, and change management
 
-## My Contributions
-
-- Designed the overall security architecture
-- Led VLAN segmentation and IPsec VPN planning
-- Created IP addressing and subnetting schemes
-- Documented firewall, SIEM, IDS/IPS, DLP, and web filtering strategy
-- Contributed to the final report, presentation, and implementation documentation
 
 ## Files
 
