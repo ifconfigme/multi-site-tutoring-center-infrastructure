@@ -37,8 +37,4 @@ This capstone project focused on designing, documenting, and presenting a multi-
 
 ```text
 docs/              Final reports and supporting documentation
-diagrams/          Network diagrams, topology visuals, and layouts
 security/          SIEM, IDS/IPS, DLP, and web filtering plans
-configurations/    VLAN, subnetting, VPN, and firewall planning
-policies/          AUP, access control, incident response, disaster recovery
-presentation/      Final presentation materials
