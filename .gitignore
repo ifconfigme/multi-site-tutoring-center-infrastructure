@@ -1,0 +1,21 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Local drafts and private files
+drafts/
+private/
+archive/
+notes/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
