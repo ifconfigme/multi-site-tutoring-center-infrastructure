@@ -37,9 +37,10 @@ This capstone project focused on designing, documenting, and presenting a multi-
 
 | File | Description |
 |---|---|
-| [`final-report.pdf`](final-report.pdf) | Full group capstone report covering the infrastructure design, network architecture, security controls, equipment planning, budget, policies, testing, and support documentation. |
-| [`individual-contribution-report.pdf`](individual-contribution-report.pdf) | Individual report summarizing Daniel Monbrod’s personal contributions to the project, including security architecture, VLAN/IPsec VPN planning, subnetting, SIEM documentation, access control concepts, and presentation work. |
-| [`site-evaluation-report.pdf`](site-evaluation-report.pdf) | Site evaluation report documenting project requirements, location layouts, user needs, infrastructure expectations, VPN requirements, shared resources, security cameras, server needs, and budget considerations. |
+| [`final-report.pdf`](docs/final-report.pdf) | Full group capstone report covering the infrastructure design, network architecture, security controls, equipment planning, budget, policies, testing, and support documentation. |
+| [`individual-contribution-report.pdf`](docs/individual-contribution-report.pdf) | Individual report summarizing Daniel Monbrod’s personal contributions to the project, including security architecture, VLAN/IPsec VPN planning, subnetting, SIEM documentation, access control concepts, and presentation work. |
+| [`site-evaluation-report.pdf`](docs/site-evaluation-report.pdf) | Site evaluation report documenting project requirements, location layouts, user needs, infrastructure expectations, VPN requirements, shared resources, security cameras, server needs, and budget considerations. |
+
 
 
 ## Repository Structure
