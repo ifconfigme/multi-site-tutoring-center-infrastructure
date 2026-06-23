@@ -38,3 +38,9 @@ This capstone project focused on designing, documenting, and presenting a multi-
 ```text
 docs/              Final reports and supporting documentation
 security/          SIEM, IDS/IPS, DLP, and web filtering plans
+
+## Documentation
+
+- [Final Report](docs/final-report.pdf)
+- [Individual Contribution Report](docs/individual-contribution-report.pdf)
+- [Site Evaluation Report](docs/site-evaluation-report.pdf)
