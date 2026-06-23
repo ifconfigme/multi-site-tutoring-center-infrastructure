@@ -1,4 +1,4 @@
-# Multi-Site Tutoring Center Infrastructure
+# Multi-Site Tutoring Center Infrastructure - Computer Infrastructure Capstone –  CPSC 49300 Spring Semester 2024
 
 Secure, scalable IT infrastructure design for a simulated non-profit tutoring organization operating three centers in Romeoville, Chicago, and Aurora, Illinois.
 
